@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CatchExceptionSquareRoot", "01.CatchExceptionSquareRoot\01.CatchExceptionSquareRoot.csproj", "{BA09C167-D871-4870-A4CE-2C53D34030A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReadNumber", "02.ReadNumber\02.ReadNumber.csproj", "{F136800A-8DDE-4796-B51C-255F80AB9BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NotReallyUserFriendly", "03.NotReallyUserFriendly\03.NotReallyUserFriendly.csproj", "{A097162F-35F4-4C58-90BF-4271BB297947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WebException", "04.WebException\04.WebException.csproj", "{16633DB7-20E5-45EF-80F3-7E0A252300C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA09C167-D871-4870-A4CE-2C53D34030A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA09C167-D871-4870-A4CE-2C53D34030A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA09C167-D871-4870-A4CE-2C53D34030A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA09C167-D871-4870-A4CE-2C53D34030A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F136800A-8DDE-4796-B51C-255F80AB9BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F136800A-8DDE-4796-B51C-255F80AB9BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F136800A-8DDE-4796-B51C-255F80AB9BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F136800A-8DDE-4796-B51C-255F80AB9BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A097162F-35F4-4C58-90BF-4271BB297947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A097162F-35F4-4C58-90BF-4271BB297947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A097162F-35F4-4C58-90BF-4271BB297947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A097162F-35F4-4C58-90BF-4271BB297947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16633DB7-20E5-45EF-80F3-7E0A252300C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16633DB7-20E5-45EF-80F3-7E0A252300C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16633DB7-20E5-45EF-80F3-7E0A252300C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16633DB7-20E5-45EF-80F3-7E0A252300C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

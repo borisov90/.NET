@@ -1,0 +1,1 @@
+All the drawing tasks from the exams plus few coordinatic tasks.
